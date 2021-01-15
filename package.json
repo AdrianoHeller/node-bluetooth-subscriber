@@ -1,0 +1,23 @@
+{
+  "name": "viasaude-bluetooth-connector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianoHeller/node-bluetooth-subscriber.git"
+  },
+  "author": "Adriano Heller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianoHeller/node-bluetooth-subscriber/issues"
+  },
+  "homepage": "https://github.com/AdrianoHeller/node-bluetooth-subscriber#readme",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
