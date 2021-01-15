@@ -18,6 +18,8 @@
   "homepage": "https://github.com/AdrianoHeller/node-bluetooth-subscriber#readme",
   "dependencies": {
     "@types/dotenv": "^8.2.0",
-    "dotenv": "^8.2.0"
+    "@types/node": "^14.14.21",
+    "dotenv": "^8.2.0",
+    "node-ble": "^1.4.0"
   }
 }
